@@ -4,7 +4,8 @@ import Auth from './views/auth.js';
 import Vacations from './views/vacations.js';
 
 function App() {
-  console.log("test")
+console.log("this should not work")
+
   return (
     <>
       <Routes>
